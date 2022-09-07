@@ -6,9 +6,9 @@ export const Button = () => {
       <div
         css={css({
           paddingLeft: "1rem",
+          paddingRight: "1rem",
           paddingTop: "1rem",
           paddingBottom: "1rem",
-          paddingTop: "1rem",
           backgroundColor: "black",
           color: "white",
         })}
