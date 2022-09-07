@@ -1,5 +1,9 @@
-import styles from "../styles/Home.module.css";
+import { Button } from "../src/components/button/index";
 
 export default function Home() {
-  return <h1>hello world</h1>;
+  return (
+    <>
+      <Button />
+    </>
+  );
 }
